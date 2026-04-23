@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/app/">
+    <Project Path="app/MinimalApi/MinimalApi.csproj" />
+  </Folder>
+</Solution>
